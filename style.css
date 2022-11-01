@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  background-color: papayawhip;
+  justify-content: center;
+  height: 200px;
+  align-it  ems: center;
+}
+
+.item{
+  width: 100px;
+  height: 100px;
+  background: purple;
+  text-align: center;
+}
